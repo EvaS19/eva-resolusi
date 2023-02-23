@@ -1,0 +1,4 @@
+Resolusi :
+- Menyelesaikan HTML, CSS
+- Belajar javascript
+- Membuat program dengan Java
