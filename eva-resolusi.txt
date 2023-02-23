@@ -2,3 +2,4 @@ Resolusi :
 - Menyelesaikan HTML, CSS
 - Belajar javascript
 - Membuat program dengan Java
+- Belajar data base dan struktur data
